@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akegvd.github.io/csb-6xzpr/static/css/main.7a1e3dbb.chunk.css",
+    "main.js": "https://akegvd.github.io/csb-6xzpr/static/js/main.09b66cff.chunk.js",
+    "main.js.map": "https://akegvd.github.io/csb-6xzpr/static/js/main.09b66cff.chunk.js.map",
+    "runtime-main.js": "https://akegvd.github.io/csb-6xzpr/static/js/runtime-main.2f432638.js",
+    "runtime-main.js.map": "https://akegvd.github.io/csb-6xzpr/static/js/runtime-main.2f432638.js.map",
+    "static/js/2.cd86d3cd.chunk.js": "https://akegvd.github.io/csb-6xzpr/static/js/2.cd86d3cd.chunk.js",
+    "static/js/2.cd86d3cd.chunk.js.map": "https://akegvd.github.io/csb-6xzpr/static/js/2.cd86d3cd.chunk.js.map",
+    "index.html": "https://akegvd.github.io/csb-6xzpr/index.html",
+    "static/css/main.7a1e3dbb.chunk.css.map": "https://akegvd.github.io/csb-6xzpr/static/css/main.7a1e3dbb.chunk.css.map",
+    "static/js/2.cd86d3cd.chunk.js.LICENSE.txt": "https://akegvd.github.io/csb-6xzpr/static/js/2.cd86d3cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f432638.js",
+    "static/js/2.cd86d3cd.chunk.js",
+    "static/css/main.7a1e3dbb.chunk.css",
+    "static/js/main.09b66cff.chunk.js"
+  ]
+}

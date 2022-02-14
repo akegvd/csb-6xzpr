@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.app{display:flex;height:100vh;font-family:sans-serif}.number-col,.result-col,.type-col{border:1px solid #000}.number-col{flex:0 1;min-width:200px}.type-col{flex:1 1;min-width:100px}.result-col{flex:0 1;min-width:300px}
+/*# sourceMappingURL=main.7a1e3dbb.chunk.css.map */
